@@ -35,7 +35,13 @@ Se creo primero el repositorio vacio en GitHub y luego se clono localmente, post
 Se configuro de la manera local clonando el repositorio de la manera remota
 ![alt text](resources/image-4.png)
 
+
 y se realizo :
+![alt text](resources/image-.png)
+
+**7. Sube los cambios, teniendo en cuenta lo que averiguaste en el punto 3 Utiliza los siguientes comando en el directorio donde tienes tu proyecto, en este orden:**
+
+
 
 
 
