@@ -41,8 +41,19 @@ y se realizo :
 
 **7. Sube los cambios, teniendo en cuenta lo que averiguaste en el punto 3 Utiliza los siguientes comando en el directorio donde tienes tu proyecto, en este orden:**
 
+Hacemos el commit de la actualización del readme que estamos elaborando
 
+![alt text](resources/image-7.png)
 
+**8. Configura el correo en git local de manera correcta Configurar correo electrónico en GitHub**
+
+Se configuró git de la siguiente manera
+
+![alt text](resources/image-8.png)
+
+**9. Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).**
+
+Verificamos los cambios:
 
 
 
