@@ -97,7 +97,7 @@ Los colaboradores aceptaron la invitacion como se vio en el punto dos
 
 Solo a una persona deja completar los cambios de manera exitosa y a los otros no
 
-![alt text](resources/image-16.png)
+![alt text](resources/image-16.jpg)
 
 ![alt text](resources/image-12.png)
 
