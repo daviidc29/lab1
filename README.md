@@ -1,7 +1,13 @@
 # LABORATORIO 1
-Nombre : David Santiago Castro Sierra
 
-## Solución laboratorio
+## Integrantes:
+David Santiago Castro Sierra
+Juan David Zambrano Gonzalez
+Juan Esteban Cely Lopez
+
+
+
+## Respuestas del laboratorio
 
 ### Parte 1 (trabajo individual)
 
@@ -62,7 +68,30 @@ Verificamos los cambios:
 
 **1.	Se escogen los roles para trabajar en equipo, una persona debe escoger ser "Owner" o Propietario del repositorio y la otra "Collaborator" o Colaborador en el repositorio.**
 
-holalaaaaaa
+Se definio 
+owner: 
+David Santiago Castro Sierra
+
+Collaborators :
+Juan David Zambrano Gonzalez
+Juan Esteban Cely Lopez
+
+**2. El owner agrega al colaborador con permisos de escritura en el repositorio que creó en la parte 1**
+
+Se agregaron los siguientes colaboradores:
+
+![alt text](resources/image-10.png)
+
+**3. El owner le comparte la url via Teams al colaborador**
+
+Se invito a los colaboradores al repositorio
+
+**4. El colaborador acepta la invitación al repositorio**
+
+Los colaboradores aceptaron la invitacion como se vio en el punto 2
+
+**5. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.**
 
 
-aaaa
+
+**6. ¿Que sucedió?**
