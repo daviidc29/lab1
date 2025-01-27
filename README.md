@@ -90,3 +90,29 @@ Se invito a los colaboradores al repositorio
 
 Los colaboradores aceptaron la invitacion como se vio en el punto dos
 
+**5. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo**
+
+
+**6. ¿Que sucedió?**
+
+Solo a una persona deja completar los cambios de manera exitosa y a los otros no
+
+![alt text](resources/image-16.png)
+
+![alt text](resources/image-12.png)
+
+![alt text](resources/image-13.png)
+
+![alt text](resources/image-14.png)
+
+**7. La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente. Como resolver Conflictos GitHub**
+
+Las personas que perdieron los cambios resolvieron el problema usando el siguiente comando
+
+![alt text](resources/image-17.png)
+
+![alt text](resources/image-18.png)
+
+**8. Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.**
+
+
