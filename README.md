@@ -115,4 +115,12 @@ Las personas que perdieron los cambios resolvieron el problema usando el siguien
 
 **8. Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.**
 
+Solo a una persona deja completar los cambios de manera exitosa y a los otros no
 
+![alt text](resources/image-19.png)
+
+En cambio las personas que perdieron les  salio
+
+![alt text](resources/image-20.png)
+
+![alt text](resources/image-21.png)
