@@ -124,3 +124,6 @@ En cambio las personas que perdieron les  salio
 ![alt text](resources/image-20.png)
 
 ![alt text](resources/image-21.png)
+
+**9. Resuelvan el conflicto con IntelliJ si es posible, Resolver conflictos en IntelliJ**
+
