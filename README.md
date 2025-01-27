@@ -94,4 +94,3 @@ Los colaboradores aceptaron la invitacion como se vio en el punto 2
 
 
 
-**6. ¿Que sucedió?**
