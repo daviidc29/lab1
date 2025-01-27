@@ -92,5 +92,8 @@ Los colaboradores aceptaron la invitacion como se vio en el punto 2
 
 **5. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.**
 
+**6. ¿Que sucedió?**
+
+
 
 
