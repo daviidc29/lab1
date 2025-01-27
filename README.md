@@ -88,11 +88,9 @@ Se invito a los colaboradores al repositorio
 
 **4. El colaborador acepta la invitación al repositorio**
 
-Los colaboradores aceptaron la invitacion como se vio en el punto 2
+Los colaboradores aceptaron la invitacion como se vio en el punto dos
 
 **5. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.**
-
-**6. ¿Que sucedió?**
 
 
 
