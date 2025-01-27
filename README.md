@@ -90,8 +90,3 @@ Se invito a los colaboradores al repositorio
 
 Los colaboradores aceptaron la invitacion como se vio en el punto dos
 
-**5. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.**
-
-
-
-
