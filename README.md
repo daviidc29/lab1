@@ -185,3 +185,10 @@ En donde la configuracion quedo realizada:
 
 ![alt text](resources/image-31.png)
 
+Por ultimo tenemos la aprobacion de al menos un compañero y donde veremos que si se elimino la rama:
+
+![alt text](resources/image-32.png)
+
+En donde ya no esta la rama feature/David-Castro
+
+![alt text](resources/image-33.png)
