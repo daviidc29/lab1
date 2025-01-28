@@ -127,4 +127,34 @@ En cambio las personas que perdieron les  salio
 
 **9. Resuelvan el conflicto con IntelliJ si es posible, Resolver conflictos en IntelliJ**
 
-Para solucionar 
+Vemos que nos salen problemas los cuales abordaremos de la siguiente forma 
+
+![img.png](resources/image-22.png)
+
+Entonces le dimos merge para mirar los cambios afectados y poder escoger el archivo que mas nos conviene 
+
+![img_1.png](resources/image-23.png)
+
+Entonces vemos los cambios afectados en la ultima linea de codigo donde aceptamos el de la derecha para resolver este conflicto
+
+![img_2.png](resources/image-24.png)
+
+### PARTE III (Trabajo de a parejas)
+
+**1. ¿Hay una mejor forma de trabajar con git para no tener conflictos?**
+
+Podemos usar las siguientes formas para evitar conflictos:
+
+1. Crear ramas, en donde cada colaborador trabajara en su propia rama para evitar conflictos en la rama main haciendo que los cambios se manejen de manera controlada
+2. Hacer commits con frecuencia ayuda a tener un historial de cambios lo que puede facilitar las cosas para resolver conflictos
+3. Antes de comenzar a trabajar actualizar los cambios de las ramas donde se esten trabajando para tener los ultimos cambios y minimizar los conflictos
+4. Hacer una verificacion del codigo y sus respectivas pruebas antes de subir los cambios
+5. Tener una buena comunicación con el equipo hace que los cambios sean cordinados y minimiza los conflictos que se pueden presentar 
+
+**2. ¿Qué es y como funciona el Pull Request?**
+
+Pull Request nos pertmite enviar una solitud para poder juntar los cambios realizados que hemos realizado de una rama a otra, donde seran verificados y revisados por otros integrantes del equipo antes de subirlos a la rama en cuestion
+
+**3. Creen una rama cada uno y suban sus cambios**
+
+
