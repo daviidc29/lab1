@@ -156,7 +156,7 @@ Podemos usar las siguientes formas para evitar conflictos:
 
 **2. ¿Qué es y como funciona el Pull Request?**
 
-Pull Request nos pertmite enviar una solitud para poder juntar los cambios realizados que hemos realizado de una rama a otra, donde seran verificados y revisados por otros integrantes del equipo antes de subirlos a la rama en cuestion
+Pull Request nos pertmite enviar una solitud para poder juntar los cambios realizados que hemos realizado de una rama a otra, donde seran verificados y revisados por otros integrantes del equipo antes de subirlos a la rama en cuestion. Es esencial en proyectos colaborativos para asegurar que el código añadido o modificado sea revisado y aprobado por otros miembros del equipo.
 
 **3. Creen una rama cada uno y suban sus cambios.**
 
