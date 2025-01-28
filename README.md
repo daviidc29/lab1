@@ -179,6 +179,10 @@ En donde cada integrante hicimos el pull request:
 
 ![alt text](resources/image-30.png)
 
+![alt text](resources/image-34.png)
+
+![alt text](resources/image-35.png)
+
 **5. Teniendo en cuenta la recomendación, mezclen los cambios a la rama main a través de PR con el check/review/approval del otro compañero (Cuando se hace merge se deberían borrar las ramas en github)**
 
 En donde la configuracion quedo realizada:
