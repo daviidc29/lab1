@@ -155,6 +155,5 @@ Podemos usar las siguientes formas para evitar conflictos:
 
 Pull Request nos pertmite enviar una solitud para poder juntar los cambios realizados que hemos realizado de una rama a otra, donde seran verificados y revisados por otros integrantes del equipo antes de subirlos a la rama en cuestion
 
-**3. Creen una rama cada uno y suban sus cambios**
-
+**3. Creen una rama cada uno y suban sus cambios.**
 
