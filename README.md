@@ -184,3 +184,4 @@ En donde cada integrante hicimos el pull request:
 En donde la configuracion quedo realizada:
 
 ![alt text](resources/image-31.png)
+
