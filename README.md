@@ -166,7 +166,9 @@ Se crearon las siguientes ramas:
 
 **4. Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master**
 
-En donde cada integrante hicimos el pull request:
+
+En donde cada integrante Realizo el pull request:
+
 
 
 ![alt text](resources/image-26.png)
