@@ -1,9 +1,13 @@
 # LABORATORIO 1
 
 ## Integrantes:
-David Santiago Castro Sierra
-Juan David Zambrano Gonzalez
-Juan Esteban Cely Lopez
+-David Santiago Castro Sierra
+
+
+-Juan David Zambrano Gonzalez
+
+
+-Juan Esteban Cely Lopez
 
 
 
@@ -123,21 +127,20 @@ En cambio las personas que perdieron les  salio
 
 ![alt text](resources/image-20.png)
 
-![alt text](resources/image-21.png)
 
 **9. Resuelvan el conflicto con IntelliJ si es posible, Resolver conflictos en IntelliJ**
 
 Vemos que nos salen problemas los cuales abordaremos de la siguiente forma 
 
-![img.png](resources/image-22.png)
+![alt text](resources/image-22.png)
 
 Entonces le dimos merge para mirar los cambios afectados y poder escoger el archivo que mas nos conviene 
 
-![img_1.png](resources/image-23.png)
+![alt text](resources/image-23.png)
 
 Entonces vemos los cambios afectados en la ultima linea de codigo donde aceptamos el de la derecha para resolver este conflicto
 
-![img_2.png](resources/image-24.png)
+![alt text](resources/image-24.png)
 
 ### PARTE III (Trabajo de a parejas)
 
@@ -159,5 +162,7 @@ Pull Request nos pertmite enviar una solitud para poder juntar los cambios reali
 
 Se crearon las siguientes ramas:
 
-![img_2.png](resources/image-25.png)
+![alt text](resources/image-25.png)
+
+**4. Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master**
 
