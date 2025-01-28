@@ -157,3 +157,7 @@ Pull Request nos pertmite enviar una solitud para poder juntar los cambios reali
 
 **3. Creen una rama cada uno y suban sus cambios.**
 
+Se crearon las siguientes ramas:
+
+![img_2.png](resources/image-25.png)
+
