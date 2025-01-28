@@ -1,6 +1,6 @@
 # LABORATORIO 1
 
-## Integrantes:
+## INTEGRANTES:
 -David Santiago Castro Sierra
 
 
@@ -11,7 +11,7 @@
 
 
 
-## Respuestas del laboratorio
+## RESPUESTAS:
 
 ### Parte 1 (trabajo individual)
 
@@ -166,3 +166,4 @@ Se crearon las siguientes ramas:
 
 **4. Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master**
 
+En donde cada integrante hicimos el pull request:
