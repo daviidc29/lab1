@@ -167,3 +167,20 @@ Se crearon las siguientes ramas:
 **4. Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master**
 
 En donde cada integrante hicimos el pull request:
+
+
+![alt text](resources/image-26.png)
+
+![alt text](resources/image-27.png)
+
+![alt text](resources/image-28.png)
+
+![alt text](resources/image-29.png)
+
+![alt text](resources/image-30.png)
+
+**5. Teniendo en cuenta la recomendación, mezclen los cambios a la rama main a través de PR con el check/review/approval del otro compañero (Cuando se hace merge se deberían borrar las ramas en github)**
+
+En donde la configuracion quedo realizada:
+
+![alt text](resources/image-31.png)
