@@ -127,5 +127,4 @@ En cambio las personas que perdieron les  salio
 
 **9. Resuelvan el conflicto con IntelliJ si es posible, Resolver conflictos en IntelliJ**
 
-
-waaaa
+lolito
